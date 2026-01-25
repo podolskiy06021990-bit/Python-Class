@@ -1,6 +1,5 @@
-if __name__ == '__main__':
-    print('Аля, Улю, Чи-чи, Га-га')
-
-    print('Аля, Улю, Чи-чи, Га-га')
-
+def greet(name):
+    print(f"Hello, {name}!")
+if __name__ == "__main__":
+    greet("Alice")
     
