@@ -1,2 +1,6 @@
 /.idea
 /.venv
+ .gitignore
+*.pyc
+__pycache__/
+.vscode/
